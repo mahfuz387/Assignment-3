@@ -1,0 +1,476 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"r",
+				"running"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"im",
+				"image-rendering"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"b",
+				"border-box"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"bo",
+				"border-color"
+			],
+			[
+				"di",
+				"animation-direction"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"s",
+				"sans-serif"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"f",
+				"font-style"
+			],
+			[
+				"te",
+				"transform-style"
+			],
+			[
+				"PA",
+				"padding"
+			],
+			[
+				"BA",
+				"background-color"
+			],
+			[
+				"high",
+				"max-height"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"tra",
+				"transition-duration"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"li",
+				"list-style-type"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"ce",
+				"cellspacing\tAttr"
+			],
+			[
+				"t",
+				"tabindex\tAttr"
+			],
+			[
+				"su",
+				"sup\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"n",
+				"no"
+			],
+			[
+				"le",
+				"margin-left"
+			],
+			[
+				"p",
+				"password"
+			],
+			[
+				"S",
+				"Submit"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"d",
+				"dir\tTag"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"ca",
+				"caption\tTag"
+			],
+			[
+				"three",
+				"three"
+			],
+			[
+				"ar",
+				"area\tTag"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"bor",
+				"border-width"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"sec",
+				"section\tTag"
+			],
+			[
+				"he",
+				"header\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 2306,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/admin/Desktop/CTG 54/Project_2_251216/project2/index.html",
+			"settings":
+			{
+				"buffer_size": 261641,
+				"encoding": "Western (Windows 1252)",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Advanced Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/admin/Desktop/CTG 54/Project_2_251216/project2/index.html",
+		"/C/Users/admin/Desktop/CTG 54/Md Hasanuzzaman_project2/index.html",
+		"/C/Users/admin/Desktop/CTG 54/Project_2/index.html",
+		"/C/Users/admin/Desktop/CTG 54/Md Hasanuzzaman_Project_1/index.html",
+		"/C/Users/admin/Desktop/CTG 54/Project_1/CTG 54-Project 1.html",
+		"/C/Users/admin/Desktop/Web_design/Style.css",
+		"/C/Users/admin/Desktop/Web_design/MyfirstSite.html",
+		"/C/Users/admin/Desktop/Style"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2306,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1749,
+								1749
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2167.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/admin/Desktop/CTG 54/Project_2_251216/project2/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 261641,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1917,
+								1917
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 856.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "style.css",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
